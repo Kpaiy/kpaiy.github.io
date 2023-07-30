@@ -54,6 +54,10 @@ hr {
     flex-grow: 1;
 }
 
+.scaleContainer {
+    width: 100%;
+}
+
 .scaleContainer #scale {
     width: calc(100% - 8px);
 }
